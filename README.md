@@ -12,21 +12,25 @@
 <div align = left>
 
   
-## 📣 Profile
----
-#### 📃 Name: Ho-Kyoung Kim
-#### 🎂 Birth: 1996. 12. 31
-#### 🏠 Hometown: Seonsan-eup, Gumi-si, Gyeongsangbuk-do, Republic of Korea
-#### 🎓 University: Handong Global University
-#### ✏️ Major: Life-Science / Computer-Science
-#### 📧 E-mail address: ssafy1123992@gmail.com
+<h3> 📣 Profile </h3>
 
-## 🎫 Carrer
 ---
-####
+##### 📃 Name: Ho-Kyoung Kim
+##### 🎂 Birth: 1996. 12. 31
+##### 🏠 Hometown: Seonsan-eup, Gumi-si, Gyeongsangbuk-do, Republic of Korea
+##### 🎓 University: Handong Global University
+##### ✏️ Major: Life-Science / Computer-Science
+##### <a href="ssafy1123992@gmail.com"> <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+![ssafy1123992@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-## 💻 Tech Stack
+<h3> 🎫 Carrer </h3>
+
 ---
+##### 🏢 Samsung Software Academy For Youth 11th
+
+<h3> 💻 Tech Stack </h3>
+---
+
 </div>
 
 <div align="center">
