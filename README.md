@@ -1,6 +1,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HoKyoung-Kim&show_icons=true&theme=gruvbox_light )
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoKyoung-Kim)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoKyoung-Kim)](https://github-readme-stats.vercel.app/api/top-langs)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaghtl2)](https://solved.ac/rlaghtl2)
 
