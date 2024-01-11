@@ -1,58 +1,39 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=100:f6d365,0:fda085&height=300&section=header&text=Jingluv&fontSize=90&fontColor=427B58)
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    .container {
-      display: flex;
-      align-items: stretch;
-    }
-    .left-column,
-    .right-column {
-      flex: 1;
-      padding: 20px;
-    }
-    .left-column {
-      background-color: #f0f0f0;
-    }
-    .right-column {
-      background-color: #e0e0e0;
-    }
-    .divider {
-      border-left: 2px solid #ccc;
-      height: 100%;
-    }
-  </style>
-</head>
-<body>
 
-<div class="container">
-  <div class="left-column">
-    <h2>왼쪽 단</h2>
-    <p>여기에 왼쪽 단의 내용을 작성합니다.</p>
-  </div>
-  
-  <div class="divider"></div>
 
-  <div class="right-column">
-    <h2>오른쪽 단</h2>
-    <p>여기에 오른쪽 단의 내용을 작성합니다.</p>
-  </div>
+<div align = center>
+
+🙋 Ho-Kyoung Kim 🙋
+===
+
 </div>
 
-</body>
-</html>
+<div align = left>
 
+  
+## 📣 Profile
+---
+#### 📃 Name: Ho-Kyoung Kim
+#### 🎂 Birth: 1996. 12. 31
+#### 🏠 Hometown: Seonsan-eup, Gumi-si, Gyeongsangbuk-do, Republic of Korea
+#### 🎓 University: Handong Global University
+#### ✏️ Major: Life-Science / Computer-Science
+#### 📧 E-mail address: ssafy1123992@gmail.com
 
+## 🎫 Carrer
+---
+####
 
+## 💻 Tech Stack
+---
+</div>
 
-
-
-
-
+<div align="center">
+  
+  <hr style="height: 4px; width: 50%; margin-top: 20px; margin-bottom: 20px;">
+  
+</div>
 
 <div align = right>
   
