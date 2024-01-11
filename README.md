@@ -1,4 +1,4 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HoKyoung-Kim&show_icons=true&theme=chalk)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=HoKyoung-Kim&show_icons=true&theme=gruvbox_light )
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoKyoung-Kim)
 
