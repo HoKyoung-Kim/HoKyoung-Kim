@@ -2,7 +2,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoKyoung-Kim)
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={rlaghtl2})](https://solved.ac/rlaghtl2)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaghtl2)](https://solved.ac/rlaghtl2)
 
 <!---
 HoKyoung-Kim/HoKyoung-Kim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
