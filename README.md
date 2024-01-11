@@ -20,8 +20,7 @@
 ##### 🏠 Hometown: Seonsan-eup, Gumi-si, Gyeongsangbuk-do, Republic of Korea
 ##### 🎓 University: Handong Global University
 ##### ✏️ Major: Life-Science / Computer-Science
-##### <a href="ssafy1123992@gmail.com"> <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
-![mailto:ssafy1123992@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+##### <a href="mailto:ssafy1123992@gmail.com"> <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 
 <h3> 🎫 Carrer </h3>
 
