@@ -21,7 +21,7 @@
 ##### 🎓 University: Handong Global University
 ##### ✏️ Major: Life-Science / Computer-Science
 ##### <a href="ssafy1123992@gmail.com"> <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
-![ssafy1123992@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![mailto:ssafy1123992@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 <h3> 🎫 Carrer </h3>
 
