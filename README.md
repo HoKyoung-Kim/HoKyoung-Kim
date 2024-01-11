@@ -1,5 +1,12 @@
-
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=100:f6d365,0:fda085&height=300&section=header&text=Jingluv&fontSize=90&fontColor=427B58)
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
 
 <div align = right>
   
