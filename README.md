@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=100:f6d365,0:fda085&height=300&section=header&text=Jingluv&fontSize=90&fontColor=427B58)
 
 <div align = right>
   
